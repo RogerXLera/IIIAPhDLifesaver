@@ -1,12 +1,11 @@
-# Learning Path Visualization
-We show the Learning Path created using the Course Recommender Algorithm.
+# IIIAPhDLifeSaver
+We create a PhD Webpage to post the most essential phd material. 
 ===================
 
-The main developers of this project are Roger X. Lera, [Filippo Bistaffa](https://filippobistaffa.github.io/) and [Juan A. Rodríguez-Aguilar](https://www.iiia.csic.es/~jar/Jariiia/Home.html)
+The main developer of this project is Roger X. Lera
 
 Dependencies
 ----------
  - [Python 3](https://www.python.org/downloads/)
  - [Pandas](https://pandas.pydata.org/)
  - [Streamlit](https://streamlit.io/)
- - [Numpy](https://numpy.org/)
